@@ -17,7 +17,7 @@ trymax()
         return m
     oh fuck
         yo dumbass "Couldn't figure out max(5, \"henry\"). Gee, I wonder who fucked that up?"
-        
+        return fuckall
         
 max(shitload)
     empty shitload?
