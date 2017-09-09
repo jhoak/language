@@ -13,10 +13,10 @@ max(x, y)
 trymax()
     try
         m = max(5, "henry")
-        yo "Found max(5, \"henry\") and it's %d" % m
+        yo "Found max(5, 'henry') and it's %d" % m
         return m
     oh fuck
-        yo dumbass "Couldn't figure out max(5, \"henry\"). Gee, I wonder who fucked that up?"
+        yo dumbass "Couldn't figure out max(5, 'henry'). Gee, I wonder who fucked that up?"
         return fuckall
         
 max(shitload)
