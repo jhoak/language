@@ -10,6 +10,15 @@ max(x, y)
     well...
         return that other shit
         
+trymax()
+    try
+        m = max(5, "henry")
+        yo "Found max(5, \"henry\") and it's %d" % m
+        return m
+    oh fuck
+        yo dumbass "Couldn't figure out max(5, \"henry\"). Gee, I wonder who fucked that up?"
+        
+        
 max(shitload)
     empty shitload?
         return fuckall
